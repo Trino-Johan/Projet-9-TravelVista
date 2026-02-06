@@ -38,6 +38,8 @@
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		487968702F355FA900FA921E /* Titles */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Titles; sourceTree = "<group>"; };
+		487968762F35694100FA921E /* Countrys */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Countrys; sourceTree = "<group>"; };
+		4879687A2F3569B100FA921E /* List */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = List; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,8 @@
 		424C31BE2B30956400279238 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				4879687A2F3569B100FA921E /* List */,
+				487968762F35694100FA921E /* Countrys */,
 				487968702F355FA900FA921E /* Titles */,
 				424C31BC2B30955E00279238 /* DetailViewController.swift */,
 				42B90C162B2A055B00779364 /* ListViewController.swift */,
@@ -120,6 +124,8 @@
 			);
 			fileSystemSynchronizedGroups = (
 				487968702F355FA900FA921E /* Titles */,
+				487968762F35694100FA921E /* Countrys */,
+				4879687A2F3569B100FA921E /* List */,
 			);
 			name = TravelVista;
 			productName = TravelVista;
