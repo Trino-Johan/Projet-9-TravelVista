@@ -1,6 +1,6 @@
 # OpenClassrooms - Exercice : migrez une application UIKit en SwiftUI en suivant un sprint
 
-# 📱 Arista - Suivi Sommeil & Exercices
+# 📱 TravelVista - Exploration de pays
 
 **Application iOS pour se renseigner sur différents pays.**
 
@@ -28,11 +28,3 @@
 <img src="https://github.com/user-attachments/assets/c0876f0b-bf12-49a5-bc0a-81af5306e768" width="200" style="margin-right:12px;" /> 
 <img src="https://github.com/user-attachments/assets/961759bd-e786-4a4e-8469-abb5e9771818" width="200" style="margin-right:12px;" />
 </p>
-
-## 🚀 Installation rapide
-
-```bash
-git clone https://github.com/Trino-Johan/arista.git
-cd arista
-open TravelVista.xcodeproj 
-# Xcode 16+ | iOS 17+ Simulator
